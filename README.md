@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldpf&show_icons=true&theme=buefy)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=eldpf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldpf&layout=compact&theme=onedark)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eldpf)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldpf&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
