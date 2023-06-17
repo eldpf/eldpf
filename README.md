@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+
 <!--
 **eldpf/eldpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=eldpf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldpf&layout=compact&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldpf&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
