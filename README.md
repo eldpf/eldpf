@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 ![eldpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldpf&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldpf&layout=compact&theme=onedark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eldpf)](https://solved.ac/eldpf)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={eldpf}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={eldpf}&theme=dark"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=eldpf&theme=dark)
