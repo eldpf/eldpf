@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldpf&layout=compact&theme=onedark)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldpf&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)<br>
 # Languages
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor00599C)<br>
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor00599C)<br>
 # Programs
 ![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor5C2D91)<br>
 # Others
