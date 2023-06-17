@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-pip install -r requirements.txt
-uvicorn main:app --reload
+![eldpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldpf&show_icons=true&theme=dark)
