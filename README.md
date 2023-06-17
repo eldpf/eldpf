@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![eldpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldpf&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eldpf)](https://solved.ac/eldpf)
