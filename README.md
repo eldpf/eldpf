@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=eldpf&theme=cold)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldpf&layout=compact&theme=onedark)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=eldpf&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)<br>
+<!--
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=eldpf)
+-->
 # Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor00599C)<br>
 # Programs
